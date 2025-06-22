@@ -1,6 +1,6 @@
 streamlit
-cellpose>=3.0
-scikit-image
+cellpose==3.1.1
+scikit-image>=0.22
 matplotlib
 pandas
 numpy
